@@ -1,5 +1,13 @@
 
 
+## [0.0.3](https://github.com/zyc95/just-use-it/compare/0.0.2...0.0.3) (2022-10-12)
+
+
+### Features
+
+* add export for usePreferredLanguages ([0427f2d](https://github.com/zyc95/just-use-it/commit/0427f2d4a411da4fc2cbad4cf743e559869e4a66))
+* **useUpdate:** add useUpdate hook ([fabcb46](https://github.com/zyc95/just-use-it/commit/fabcb46385d1db62405bf5ea1420c95d7a08ea7b))
+
 ## 0.0.2 (2022-09-29)
 
 
